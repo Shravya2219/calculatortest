@@ -1,0 +1,19 @@
+{
+  "name": "737161",
+  "version": "1.0.0",
+  "description": "this is my calculator program using node ",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[200~https://github.com/Shravya2219/Project.git~"
+  },
+  "author": "shravya",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {}
+}
